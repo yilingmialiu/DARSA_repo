@@ -1,0 +1,3 @@
+best_parameters {'lr': 2.9184104948304598e-05, 'lamb_clf': 0.03280818182975054, 'lamb_wd': 0.7096008751541376, 'lamb_centroid': 0.5566594572737813, 'lamb_sntg': 0.6581175811588764, 'momentum': 0.526602765545249}
+means {'accuracy': 0.45777779817581177}
+covariances {'accuracy': {'accuracy': nan}}

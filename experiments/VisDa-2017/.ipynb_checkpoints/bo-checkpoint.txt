@@ -1,0 +1,43 @@
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+[INFORMATION] The bottleneck dim is  256
+best_parameters {'lr': 0.000303691099072424, 'lamb_clf': 0.8737786108848239, 'lamb_wd': 0.35812623523428994, 'lamb_centroid': 0.0, 'lamb_sntg': 0.22902199572767665, 'momentum': 0.420857336843432}
+means {'accuracy': 0.5087882988047252}
+covariances {'accuracy': {'accuracy': 7.736405120209293e-06}}
