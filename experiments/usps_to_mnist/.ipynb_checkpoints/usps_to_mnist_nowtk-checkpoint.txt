@@ -1,0 +1,35 @@
+momentum 0.4
+K 10
+batch_size 512
+lr 0.01
+lambda_clf 1
+lambda_wd 0.5
+lambda_centroid 1
+lambda_sntg 1
+LAMBDA 30
+seed 123
+EPOCH 001: critic_loss=35.6927 source_clf=0.1440,unweighted_source_clf=0.1440,clustering_centr=4.3282,sntg=10.3542
+9    871
+2    864
+5    848
+3    614
+8    543
+4    507
+1    475
+0    366
+6    360
+7    352
+Name: 0, dtype: int64
+1    870
+5    870
+9    870
+3    870
+7    870
+0    290
+4    290
+8    290
+2    290
+6    290
+Name: 0, dtype: int64
+Accuracy on target data: 0.6448
+0.6448276042938232

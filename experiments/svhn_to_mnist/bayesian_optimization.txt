@@ -1,0 +1,4 @@
+Using downloaded and verified file: ../../data/svhn/train_32x32.mat
+best_parameters {'lr': 0.06477875879824922, 'lamb_clf': 0.798761617466394, 'lamb_wd': 0.0, 'lamb_centroid': 0.048752993866163934, 'lamb_sntg': 0.13293157512892942, 'momentum': 0.10875169976298936}
+means {'accuracy': 0.8467267083596601}
+covariances {'accuracy': {'accuracy': 0.0004389287271358307}}
